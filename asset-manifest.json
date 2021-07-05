@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://marina-saito.github.io/nestjs-frontend/static/css/main.5e345a88.chunk.css",
+    "main.js": "https://marina-saito.github.io/nestjs-frontend/static/js/main.4387faef.chunk.js",
+    "main.js.map": "https://marina-saito.github.io/nestjs-frontend/static/js/main.4387faef.chunk.js.map",
+    "runtime~main.js": "https://marina-saito.github.io/nestjs-frontend/static/js/runtime~main.a7c09cd6.js",
+    "runtime~main.js.map": "https://marina-saito.github.io/nestjs-frontend/static/js/runtime~main.a7c09cd6.js.map",
+    "static/js/2.7dc14255.chunk.js": "https://marina-saito.github.io/nestjs-frontend/static/js/2.7dc14255.chunk.js",
+    "static/js/2.7dc14255.chunk.js.map": "https://marina-saito.github.io/nestjs-frontend/static/js/2.7dc14255.chunk.js.map",
+    "index.html": "https://marina-saito.github.io/nestjs-frontend/index.html",
+    "precache-manifest.f31ba2acee80f46bacaaecb3e5cf5be6.js": "https://marina-saito.github.io/nestjs-frontend/precache-manifest.f31ba2acee80f46bacaaecb3e5cf5be6.js",
+    "service-worker.js": "https://marina-saito.github.io/nestjs-frontend/service-worker.js",
+    "static/css/main.5e345a88.chunk.css.map": "https://marina-saito.github.io/nestjs-frontend/static/css/main.5e345a88.chunk.css.map"
+  }
+}
